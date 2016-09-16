@@ -46,91 +46,90 @@ Personal Data is collected for the following purposes and using the following se
 You may revoke Scholarly Space's access to your account on any Integrated Service, such as Google, at any time by updating the appropriate settings in the account preferences of the respective Integrated Service. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service's terms of use and privacy policies carefully before using their services and connecting to our Properties.
 
 
-    ### Access to third party services' accounts
+### Access to third party services' accounts
 
-    This type of services allows this Application to access Data from your account on a third party service and perform actions with it.
-    These services are not activated automatically, but require explicit authorization by the User.
+This type of services allows this Application to access Data from your account on a third party service and perform actions with it.
+These services are not activated automatically, but require explicit authorization by the User.
 
-    #### Access to the Google Drive account (Google Inc.)
+#### Access to the Google Drive account (Google Inc.)
+This service allows this Application to connect with the User's account on Google Drive, provided by Google, Inc.
 
-    This service allows this Application to connect with the User's account on Google Drive, provided by Google, Inc.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-    Personal Data collected: various types of Data as specified in the privacy policy of the service.
+Place of processing: US – [Privacy Policy](https://support.google.com/drive/answer/2450387?hl=en)
 
-    Place of processing: US – [Privacy Policy](https://support.google.com/drive/answer/2450387?hl=en)
+### Analytics
 
-    ### Analytics
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+#### Google Analytics (Google Inc.)
 
-    #### Google Analytics (Google Inc.)
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-    Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
-    Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Personal Data collected: Cookies and Usage Data.
 
-    Personal Data collected: Cookies and Usage Data.
-
-    Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
     
-    ### Content commenting
+### Content commenting
 
-    Content commenting services allow Users to make and publish their comments on the contents of this Application.
-    Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.
-    If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
+Content commenting services allow Users to make and publish their comments on the contents of this Application.
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
 
-    #### Comment system managed directly (This Application)
+#### Comment system managed directly (This Application)
 
-    This Application has its own internal content comment system.
+This Application has its own internal content comment system.
 
-    Personal Data collected: Usage Data and User ID.
+Personal Data collected: Usage Data and User ID.
 
-    ### Displaying content from external platforms
+### Displaying content from external platforms
 
-    This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.
-    This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
+This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.
+This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
 
-    #### YouTube video widget (Google Inc.)
+#### YouTube video widget (Google Inc.)
 
-    YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-    Personal Data collected: Cookies and Usage Data.
+Personal Data collected: Cookies and Usage Data.
 
-    Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
-    #### Vimeo video (Vimeo, LLC)
+#### Vimeo video (Vimeo, LLC)
 
-    Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Application to incorporate content of this kind on its pages.
+Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Application to incorporate content of this kind on its pages.
 
-    Personal Data collected: Cookies and Usage Data.
+Personal Data collected: Cookies and Usage Data.
 
-    Place of processing: US – [Privacy Policy](https://vimeo.com/privacy)
+Place of processing: US – [Privacy Policy](https://vimeo.com/privacy)
 
-    ### Registration and authentication
+### Registration and authentication
 
-    By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.
-    Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.
-    If you decide to register through or otherwise grant access to a third-party social networking or integrated service (what we call an "Integrated Service"), such as Google, Scholarly Space may also collect Personal Information that is already associated with your Integrated Service account. You may also have the option of sharing additional information with Scholarly Space through an Integrated Service. If you choose to provide such information, during registration or otherwise, you are giving Scholarly Space the permission to use, share, and store it in a manner consistent with this Privacy Notice.
+By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.
+Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.
+If you decide to register through or otherwise grant access to a third-party social networking or integrated service (what we call an "Integrated Service"), such as Google, Scholarly Space may also collect Personal Information that is already associated with your Integrated Service account. You may also have the option of sharing additional information with Scholarly Space through an Integrated Service. If you choose to provide such information, during registration or otherwise, you are giving Scholarly Space the permission to use, share, and store it in a manner consistent with this Privacy Notice.
 
-    #### Google OAuth (Google Inc.)
+#### Google OAuth (Google Inc.)
 
-    Google OAuth is a registration and authentication service provided by Google Inc. and is connected to the Google network.
+Google OAuth is a registration and authentication service provided by Google Inc. and is connected to the Google network.
 
-    Personal Data collected: various types of Data as specified in the privacy policy of the service.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-    Place of processing: US – [Privacy Policy](https://developers.google.com/accounts/docs/OAuth2)
+Place of processing: US – [Privacy Policy](https://developers.google.com/accounts/docs/OAuth2)
 
-    #### Direct registration (This Application)
+#### Direct registration (This Application)
 
-    The User registers by filling out the registration form and providing the Personal Data directly to this Application.
+The User registers by filling out the registration form and providing the Personal Data directly to this Application.
 
-    Personal Data collected: school name, email address, first name and last name.
+Personal Data collected: school name, email address, first name and last name.
 
 ## Further information about Personal Data
 
-    ### The Service is directed to children under the age of 13
+### The Service is directed to children under the age of 13
 
-    This Application is directed to children under the age of 13\. It doesn't require the child to disclose any more information than is reasonably necessary to participate in its activity.
-    Parents may review the personal information about their child collected by this Application - if any - outlined in the rest of this policy, ask for its deletion and request any further collection or use to be omitted by contacting the Owner. Parents may also agree to the collection and use of their child's information, but still not allow disclosure to third parties, unless disclosure is integral to the Service.
+This Application is directed to children under the age of 13\. It doesn't require the child to disclose any more information than is reasonably necessary to participate in its activity.
+Parents may review the personal information about their child collected by this Application - if any - outlined in the rest of this policy, ask for its deletion and request any further collection or use to be omitted by contacting the Owner. Parents may also agree to the collection and use of their child's information, but still not allow disclosure to third parties, unless disclosure is integral to the Service.
 
 ## Legal FAQs
 
