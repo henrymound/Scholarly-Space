@@ -229,4 +229,4 @@ Any student materials created by a student including, but not limited to, essays
 
 This privacy policy relates solely to this Application.
 
-Latest update: September 16, 2016
+Latest update: September 19, 2016
