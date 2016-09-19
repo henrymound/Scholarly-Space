@@ -1,10 +1,7 @@
 
+# **Terms and Conditions | Scholarly Space, LLC**
 
-[Source](http://scholarly.space/terms.html "Permalink to Terms and Conditions | Scholarly Space, LLC")
-
-# Terms and Conditions | Scholarly Space, LLC
-
-Last updated: September 19, 2016
+*Last updated: September 19, 2016*
 
 The following are the terms of service ("Terms of Service") that define the relationship between Scholarly Space, LLC. ("Company," "Scholarly Space," "we," or "us") and you, and govern your use of Scholarly Space's services.   
 
@@ -16,7 +13,7 @@ IF YOU ARE A PARENT OR GUARDIAN AND YOU PROVIDE CONSENT FOR YOUR CHILD TO REGIST
 
 * * *
 
-## Eligibility Accounts
+## **Eligibility Accounts**
 
 THE WEBSITE IS NOT AVAILABLE TO (A) ANY USERS PREVIOUSLY SUSPENDED OR REMOVED FROM THE WEBSITE BY SCHOLARLY SPACE OR (B) ANY PERSONS UNDER THE AGE OF 13 WHOSE REGISTRATION HAS NOT BEEN APPROVED BY A LEGAL PARENT OR GUARDIAN. 
 By clicking the "I Agree" button or by otherwise using or registering an account for the Website, You represent (a) that You have not been previously suspended or removed from the Website by Scholarly Space; (b) that You are either (i) at least 13 years of age or (ii) Your parent and/or guardian has consented to Your use of the Website; and (c) that your registration and your use of the Website is in compliance with any and all applicable laws and regulations.   
@@ -43,13 +40,13 @@ Scholarly Space may make available certain features and tools that permit certai
 
 * * *
 
-## Privacy
+## **Privacy**
 
 Your privacy is important to Scholarly Space. Please read the Scholarly Space [Privacy Policy][2], hereby incorporated into the Terms, carefully for information relating to Scholarly Space's collection, use, and disclosure of Your personal information.
 
 * * *
 
-## API Terms;Other guidelines
+## **API Terms;Other guidelines**
 
 ### API Terms
 
@@ -61,13 +58,13 @@ When using the Website, You will be subject to any additional posted guidelines 
 
 * * *
 
-## Modification of the Terms
+## **Modification of the Terms**
 
 Scholarly Space reserves the right, at our discretion, to change, modify, add, or remove portions of the Terms at any time. Please check the Terms and any Guidelines periodically for changes. Your continued use of the Website after the posting of changes constitutes your binding acceptance of such changes. For any material changes to the Terms, Scholarly Space will make reasonable effort to provide notice to you of such amended Terms, such as by an email notification to the address associated with your account or by posting a notice on the Website, and such amended terms will be effective against You on the earlier of (i) your actual notice of such changes and (ii) thirty days after Scholarly Space makes reasonable attempt to provide you such notice. Disputes arising under these Terms will be resolved in accordance with the version of the Terms in place at the time the dispute arose.
 
 * * *
 
-## Your Information and Content
+## **Your Information and Content**
 
 In the course of using the Service, you and other users may provide or post certain content or information which may be used by Scholarly Space in connection with the Service and which may be visible to certain other users ("User Submissions"). Please visit our [Privacy Policy][2] for additional information on the types of information different types of users are able to provide. Additionally, some User Submissions may be deemed an Education Record (as defined below).
 
@@ -81,9 +78,9 @@ The license in (i) above will terminate when you delete any User Submissions wit
 
 All information posted or transmitted through the Service is the responsibility of the person that posted it, and we will not be liable for any errors or omissions in any content. Scholarly Space cannot guarantee the identity of any other users with whom you may interact in the course of using the Service, or the authenticity of any data which users may provide about themselves. You acknowledge that all content accessed by you using the Service is at your own risk and you will be solely responsible for any damage or loss to any party resulting therefrom. We do not guarantee that we will publish any of your User Submissions, and reserve the right to remove User Submissions from the Service at any time for any reason, such as if we receive a notice reports a User Submission infringes someone's intellectual property rights.
 
-* * *
+---
 
-## Additional Terms by User Type
+## **Additional Terms by User Type**
 
 ### Students:
 
@@ -139,9 +136,9 @@ If you are a parent of a student that has been invited to create an account on t
   </li>
 </ul>
 
-> * * *
+ * * *
 
-## FERPA
+## **FERPA**
 
 Certain information that may be provided to Scholarly Space by School Personnel that is directly related to a student and maintained by an Institution, may be considered an education record ("Education Record") under the Family Educational Rights and Privacy Act ("FERPA"). Additionally, certain information, provided to Company by School Personnel about a student, such as student name and grade level, may be considered directory information under FERPA ("Directory Information") and thus not an Education Record. A school may not generally disclose personally identifiable information from an eligible student's education records to a third party without written consent of the parent and/or eligible student or without meeting one of the exemptions set forth in FERPA ("FERPA Exemption(s)"), including the exemption for Directory Information ("Directory Information Exemption") or disclosure to school officials with a legitimate educational interest ("School Official Exemption").
 
@@ -159,7 +156,7 @@ Scholarly Space may use Education Records that have been de-identified for produ
 
 * * *
 
-## Scholarly Space Technology
+## **Scholarly Space Technology**
 
 The Service and the Scholarly Space Technology are intended solely for the personal, non-commercial use of our users and may only be used in accordance with this Agreement. "Scholarly Space Technology" means all past, present and future content of the Service, including, all the software, hardware and technology used to provide the Service (including Scholarly Space proprietary code and third-party software), user interfaces, materials displayed or performed on the Service, such as text, graphics, articles, photographs, images, illustrations and the design, structure, sequence and "look and feel" of the Services, and all other intellectual property, including all Scholarly Space Marks. Scholarly Space Technology is protected by copyright and other intellectual property laws. You are not allowed to use, store, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, create derivative works from, display, license, sell or otherwise exploit the Scholarly Space Technology for any purposes other than as expressly permitted under this Agreement. You will not decompile, reverse engineer, or otherwise attempt to obtain the source code of any Scholarly Space Technology. "Scholarly Space Marks" means the trademarks, service marks, logos, or any other trade name, trademarks, service marks and other distinctive or proprietary brand features of Scholarly Space.
 
@@ -167,13 +164,13 @@ Using our Service does not give you ownership of any intellectual property right
 
 * * *
 
-## Social Media
+## **Social Media**
 
 Company may, now or in the future, incorporate certain functions that allow you to interact with the Service through your accounts on certain supported third party services, such as social networks or network storage sites ("Linked Accounts"), such as with "Like" and "Share" buttons, or similar features. If you choose to use such features, you grant Company permission to access and use your Linked Account for the purpose of processing your requests. Your use of Linked Accounts is subject to the applicable third party terms.
 
 * * *
 
-## Prohibited Conduct. YOU AGREE NOT TO:
+## **Prohibited Conduct. YOU AGREE NOT TO:**
 
 - Use the Website for any commercial use or purpose unless expressly permitted by Scholarly Space in writing, it being understood that the Website and related services are intended for personal, non-commercial use only.   
 - Post, upload, or distribute any defamatory, libelous, or inaccurate User Content or other content;   
@@ -191,7 +188,7 @@ Company may, now or in the future, incorporate certain functions that allow you 
 
 * * *
 
-## Third-Party Sites
+## **Third-Party Sites**
 
 ### Third-Party Sites, Products and Services;
 
@@ -199,7 +196,7 @@ Links. The Website may include links or references to other web sites or service
 
 * * *
 
-## Termination
+## **Termination**
 
 Termination by Scholarly Space. Scholarly Space, in its sole discretion, for any or no reason, and without penalty, may terminate any account (or any part thereof) You may have with Scholarly Space or your use of the Website and remove and discard all or any part of your account, User profile, and User Content, at any time. Scholarly Space may also in its sole discretion and at any time discontinue providing access to the Website, or any part thereof, with or without notice. You agree that any termination of your access to the Website or any account You may have, or portion thereof, may be affected without prior notice, and You agree that Scholarly Space will not be liable to You or any third party for any such termination. Any suspected fraudulent, abusive or illegal activity may be referred to appropriate law enforcement authorities. These remedies are in addition to any other remedies Scholarly Space may have at law or in equity. As discussed herein, Scholarly Space does not permit copyright, trademarks, or other intellectual property infringing activities on the Website, and will terminate access to the Website, and remove all User Content or other content submitted, by any Users who are found to be repeat infringers.
 
@@ -208,13 +205,13 @@ To request deletion of your login account, please email: [privacy@scholarly.spac
 
 * * *
 
-## Indemnification
+## **Indemnification**
 
 You agree to indemnify, defend, and hold harmless Scholarly Space, its affliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners ("Scholarly Space Indemnitees") from any claims, losses, damages, liabilities, and expenses (including legal fees and expenses), arising out of any use or misuse of the Website, any violation of the Terms, or any breach of the representations, warranties, and covenants made herein, whether by You or by any Child User associated with you if you are a Parent User or Coach. Scholarly Space reserves the right, at your expense, to assume the exclusive defense and control of any matter for which You are required to indemnify Scholarly Space, and You agree to cooperate with Scholarly Space's defense of these claims. Scholarly Space will use reasonable efforts to notify You of any such claim, action, or proceeding upon becoming aware of it.
 
 * * *
 
-## Disclaimers; No Warranties
+## **Disclaimers; No Warranties**
 
 ### No Warranties
 
@@ -238,7 +235,7 @@ SOME STATES OR OTHER JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANT
 
 * * *
 
-## Limitation of Liability and Damages
+## **Limitation of Liability and Damages**
 
 ### Limitation of Liability
 
@@ -254,7 +251,7 @@ YOU ACKNOWLEDGE AND AGREE THAT SCHOLARLY SPACE HAS OFFERED THE WEBSITE AND ENTER
 
 * * *
 
-## Miscellaneous
+## **Miscellaneous**
 
 ### Waiver and Severability
 
