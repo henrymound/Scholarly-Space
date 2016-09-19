@@ -108,10 +108,11 @@ If you are a teacher, school leader, aide, or other similar personnel ("School P
   You further understand and acknowledge that COPPA prohibits online service providers from knowingly collecting personally identifiable information from children under 13 years of age without Consent and you understand that we will not let children under the age of 13 use certain features of the Service unless:
   </li>
 
-  <ol>
+  <ul>
   <li>Scholarly Space obtains Consent from the child's parent or legal guardian if the student is creating an account on Scholarly Space; or</li>
   <li>You obtain Consent in the situations where the child is not creating an account, but you as School Personnel allow the child to access certain features of Scholarly Space which may result in the collection of personal information from the child ("School Consent"). Scholarly Space will not provide full access or use of the Service to children under the age of 13 that you invite or allow access to the Service if we are unable to obtain parental consent or learn that School Personnel or the Institution has not obtained School Consent.</li>
-  
+  </ul>
+
   <li>
   School Consent. You acknowledge and agree that when School Consent must be utilized to allow children under 13 to use the Service, you and/or the Institution will be solely responsible (and hereby agree that Scholarly Space is not responsible) for compliance with COPPA. This includes without limitation, limiting access to the Service to those student users from whom School Personnel has received valid Consent forms and complying with all parental requests regarding the collection, use and disclosure of such parent's child's information. School Personnel or the Institution are responsible for disseminating parental consent forms to the parents of potential student users, for confirming receipt of valid consent forms for each child before granting the student access to the Service, and for retaining such consent forms on file. If a parent user does not consent or rescinds such School Consent, School Personnel or the Institution shall immediately notify Scholarly Space to discontinue that student's access to the Service and ensure that such student's information is no longer accessible through the Services. For more information on School Consent please see our FAQ.
   </li>
