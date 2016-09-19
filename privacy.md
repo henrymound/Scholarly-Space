@@ -6,8 +6,7 @@ This Application collects some Personal Data from its Users.
 
 Scholarly Space, LLC,
 [privacy@scholarly.space](mailto:privacy@scholarly.space?Subject=Privacy)
-
-
+--
 ## Types of Data collected
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage Data, first name, last name, email address and school name.
@@ -18,7 +17,7 @@ Any use of Cookies - or of other tracking tools - by this Application or by the 
 Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
 Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
-
+--
 ## Mode and place of processing the Data
 
 ### Methods of processing
@@ -33,13 +32,13 @@ The Data is processed at the Data Controller's operating offices and in any othe
 ### Retention time
 
 The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
-
+--
 ## The use of the collected Data
 
 The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Access to third party services' accounts, Registration and authentication, Content commenting and Displaying content from external platforms.
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
-
+--
 ## Detailed information on the processing of Personal Data
 
 Personal Data is collected for the following purposes and using the following services:
@@ -123,14 +122,14 @@ Place of processing: US – [Privacy Policy](https://developers.google.com/accou
 The User registers by filling out the registration form and providing the Personal Data directly to this Application.
 
 Personal Data collected: school name, email address, first name and last name.
-
+--
 ## Further information about Personal Data
 
 ### The Service is directed to children under the age of 13
 
 This Application is directed to children under the age of 13\. It doesn't require the child to disclose any more information than is reasonably necessary to participate in its activity.
 Parents may review the personal information about their child collected by this Application - if any - outlined in the rest of this policy, ask for its deletion and request any further collection or use to be omitted by contacting the Owner. Parents may also agree to the collection and use of their child's information, but still not allow disclosure to third parties, unless disclosure is integral to the Service.
-
+--
 ## Legal FAQs
 
 ### Does Scholarly Space comply with COPPA (Child Online Privacy Protection Act)?
@@ -152,7 +151,7 @@ Scholarly Space, LLC will delete student information upon student, parent, guard
 ### Who can I contact at Turnitin if I have privacy concerns?
 
 We are always ready to answer any question or concerns you may have. Please write to us at [privacy@scholarly.space](mailto:privacy@scholarly.space?Subject=Privacy%20concerns).
-
+--
 ## Additional information about Data collection and processing
 
 ### Legal action
