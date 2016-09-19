@@ -7,8 +7,11 @@
 Last updated: September 19, 2016
 
 The following are the terms of service ("Terms of Service") that define the relationship between Scholarly Space, LLC. ("Company," "Scholarly Space," "we," or "us") and you, and govern your use of Scholarly Space's services.   
-Welcome, and thank you for your interest in Scholarly Space ("Scholarly Space" or "We" or "Us"), which operates the web site located at  and related application programming interfaces (API's), mobile applications and online services (the "Website"). The following Terms of Service are a legal contract between you ("You") and Scholarly Space regarding your use of the Website. Visitors and users of the Website are referred to individually as "User" and collectively as "Users".   
+
+Welcome, and thank you for your interest in Scholarly Space ("Scholarly Space" or "We" or "Us"), which operates the web site located at and related application programming interfaces (API's), mobile applications and online services (the "Website"). The following Terms of Service are a legal contract between you ("You") and Scholarly Space regarding your use of the Website. Visitors and users of the Website are referred to individually as "User" and collectively as "Users".   
+
 PLEASE READ THE FOLLOWING TERMS OF SERVICE CAREFULLY. BY REGISTERING FOR, ACCESSING, BROWSING, OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE FOLLOWING TERMS AND CONDITIONS, INCLUDING THE SCHOLARLY SPACE PRIVACY NOTICE AND ANY ADDITIONAL GUIDELINES (AS DEFINED BELOW) (COLLECTIVELY, THE "TERMS").   
+
 IF YOU ARE A PARENT OR GUARDIAN AND YOU PROVIDE CONSENT FOR YOUR CHILD TO REGISTER WITH THE WEBSITE, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE IN RESPECT OF SUCH CHILD'S USE OF THE WEBSITE.   
 
 * * *
