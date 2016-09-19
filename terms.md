@@ -84,12 +84,17 @@ All information posted or transmitted through the Service is the responsibility 
 ### Students:
 
 if you are a student accessing the Service at the invitation of a teacher or other school official, the following terms apply to you.   
-
-  i. Only students who have been invited, or given access to the Service, by their teacher, school, or district may use the Service. You may not access or use the Service unless you are invited or given access to the Service by a teacher, school, or district who is authorized to give you access to the Service.
-  
-  ii. We request minimal personal information to be provided from students to sign up for an account on the Service: username, password, and age or date or birth. If you are under 13 years of age, we also collect your parent's email address so that we can provide notice or obtain consent for you to use the Service. If you are a student, please do not provide any personal information about yourself to us, other than what we request from you when you sign up for the Service or as directed by your teacher, school or district.
-  
-  iii. The Children's Online Privacy Protection Act ("COPPA") prohibits online service providers from knowingly collecting personally identifiable information from children under 13 years of age without verifiable parental consent or notice as applicable ("Consent"). Consent may be obtained either by 1) Scholarly Space if the student is setting up a student account; or 2) a student's school if utilizing certain features of the Service without setting up an account. Children under the age of 13 are prohibited from using certain features of the Service without Consent. For that reason, the signup flow for the Service requests the age of each new student user. By registering, you promise that you provided your real age during your signup, and you are either (a) over the age of 13 or (b) you gave us your parent or legal guardian's actual and current email address, and that any response sent to Company in response comes from your parent or legal guardian.
+<ol type="i">
+  <li>
+  Only students who have been invited, or given access to the Service, by their teacher, school, or district may use the Service. You may not access or use the Service unless you are invited or given access to the Service by a teacher, school, or district who is authorized to give you access to the Service.
+  </li>
+  <li>
+  We request minimal personal information to be provided from students to sign up for an account on the Service: username, password, and age or date or birth. If you are under 13 years of age, we also collect your parent's email address so that we can provide notice or obtain consent for you to use the Service. If you are a student, please do not provide any personal information about yourself to us, other than what we request from you when you sign up for the Service or as directed by your teacher, school or district.
+  </li>
+  <li>
+  The Children's Online Privacy Protection Act ("COPPA") prohibits online service providers from knowingly collecting personally identifiable information from children under 13 years of age without verifiable parental consent or notice as applicable ("Consent"). Consent may be obtained either by 1) Scholarly Space if the student is setting up a student account; or 2) a student's school if utilizing certain features of the Service without setting up an account. Children under the age of 13 are prohibited from using certain features of the Service without Consent. For that reason, the signup flow for the Service requests the age of each new student user. By registering, you promise that you provided your real age during your signup, and you are either (a) over the age of 13 or (b) you gave us your parent or legal guardian's actual and current email address, and that any response sent to Company in response comes from your parent or legal guardian.
+  </li>
+</ol>
 
 ### Teachers and school leaders
 
