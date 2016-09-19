@@ -18,7 +18,8 @@ IF YOU ARE A PARENT OR GUARDIAN AND YOU PROVIDE CONSENT FOR YOUR CHILD TO REGIST
 
 ## Eligibility Accounts
 
-THE WEBSITE IS NOT AVAILABLE TO (A) ANY USERS PREVIOUSLY SUSPENDED OR REMOVED FROM THE WEBSITE BY SCHOLARLY SPACE OR (B) ANY PERSONS UNDER THE AGE OF 13 WHOSE REGISTRATION HAS NOT BEEN APPROVED BY A LEGAL PARENT OR GUARDIAN. By clicking the "I Agree" button or by otherwise using or registering an account for the Website, You represent (a) that You have not been previously suspended or removed from the Website by Scholarly Space; (b) that You are either (i) at least 13 years of age or (ii) Your parent and/or guardian has consented to Your use of the Website; and (c) that your registration and your use of the Website is in compliance with any and all applicable laws and regulations.   
+THE WEBSITE IS NOT AVAILABLE TO (A) ANY USERS PREVIOUSLY SUSPENDED OR REMOVED FROM THE WEBSITE BY SCHOLARLY SPACE OR (B) ANY PERSONS UNDER THE AGE OF 13 WHOSE REGISTRATION HAS NOT BEEN APPROVED BY A LEGAL PARENT OR GUARDIAN. 
+By clicking the "I Agree" button or by otherwise using or registering an account for the Website, You represent (a) that You have not been previously suspended or removed from the Website by Scholarly Space; (b) that You are either (i) at least 13 years of age or (ii) Your parent and/or guardian has consented to Your use of the Website; and (c) that your registration and your use of the Website is in compliance with any and all applicable laws and regulations.   
 
 ### Account
 
