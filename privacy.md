@@ -2,11 +2,15 @@
 
 This Application collects some Personal Data from its Users.
 
+---
+
 ## Data Controller and Owner
 
 Scholarly Space, LLC,
 [privacy@scholarly.space](mailto:privacy@scholarly.space?Subject=Privacy)
 
+
+---
 
 ## Types of Data collected
 
@@ -34,11 +38,16 @@ The Data is processed at the Data Controller's operating offices and in any othe
 
 The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
+---
+
+
 ## The use of the collected Data
 
 The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Access to third party services' accounts, Registration and authentication, Content commenting and Displaying content from external platforms.
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
+
+---
 
 ## Detailed information on the processing of Personal Data
 
@@ -62,7 +71,7 @@ Place of processing: US – [Privacy Policy](https://support.google.com/drive/an
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-#### Google Analytics (Google Inc.)
+#### *Google Analytics (Google Inc.)*
 
 Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
@@ -77,7 +86,7 @@ Content commenting services allow Users to make and publish their comments on th
 Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.
 If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
 
-#### Comment system managed directly (This Application)
+#### *Comment system managed directly (This Application)*
 
 This Application has its own internal content comment system.
 
@@ -88,7 +97,7 @@ Personal Data collected: Usage Data and User ID.
 This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.
 This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
 
-#### YouTube video widget (Google Inc.)
+#### *YouTube video widget (Google Inc.)*
 
 YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
@@ -96,7 +105,7 @@ Personal Data collected: Cookies and Usage Data.
 
 Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
-#### Vimeo video (Vimeo, LLC)
+#### *Vimeo video (Vimeo, LLC)*
 
 Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Application to incorporate content of this kind on its pages.
 
@@ -110,7 +119,7 @@ By registering or authenticating, Users allow this Application to identify them 
 Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.
 If you decide to register through or otherwise grant access to a third-party social networking or integrated service (what we call an "Integrated Service"), such as Google, Scholarly Space may also collect Personal Information that is already associated with your Integrated Service account. You may also have the option of sharing additional information with Scholarly Space through an Integrated Service. If you choose to provide such information, during registration or otherwise, you are giving Scholarly Space the permission to use, share, and store it in a manner consistent with this Privacy Notice.
 
-#### Google OAuth (Google Inc.)
+#### *Google OAuth (Google Inc.)*
 
 Google OAuth is a registration and authentication service provided by Google Inc. and is connected to the Google network.
 
