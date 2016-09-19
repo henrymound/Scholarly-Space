@@ -4,7 +4,7 @@ This Application collects some Personal Data from its Users.
 
 ---
 
-## Data Controller and Owner
+## **Data Controller and Owner**
 
 Scholarly Space, LLC,
 [privacy@scholarly.space](mailto:privacy@scholarly.space?Subject=Privacy)
@@ -12,7 +12,7 @@ Scholarly Space, LLC,
 
 ---
 
-## Types of Data collected
+## **Types of Data collected**
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage Data, first name, last name, email address and school name.
 
@@ -49,7 +49,7 @@ The Personal Data used for each purpose is outlined in the specific sections of 
 
 ---
 
-## Detailed information on the processing of Personal Data
+## **Detailed information on the processing of Personal Data**
 
 Personal Data is collected for the following purposes and using the following services:
 You may revoke Scholarly Space's access to your account on any Integrated Service, such as Google, at any time by updating the appropriate settings in the account preferences of the respective Integrated Service. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service's terms of use and privacy policies carefully before using their services and connecting to our Properties.
@@ -127,18 +127,23 @@ Personal Data collected: various types of Data as specified in the privacy polic
 
 Place of processing: US – [Privacy Policy](https://developers.google.com/accounts/docs/OAuth2)
 
-#### Direct registration (This Application)
+#### *Direct registration (This Application)*
 
 The User registers by filling out the registration form and providing the Personal Data directly to this Application.
 
 Personal Data collected: school name, email address, first name and last name.
 
-## Further information about Personal Data
+---
+
+## **Further information about Personal Data**
 
 ### The Service is directed to children under the age of 13
 
 This Application is directed to children under the age of 13\. It doesn't require the child to disclose any more information than is reasonably necessary to participate in its activity.
 Parents may review the personal information about their child collected by this Application - if any - outlined in the rest of this policy, ask for its deletion and request any further collection or use to be omitted by contacting the Owner. Parents may also agree to the collection and use of their child's information, but still not allow disclosure to third parties, unless disclosure is integral to the Service.
+
+---
+
 
 ## Legal FAQs
 
@@ -161,6 +166,8 @@ Scholarly Space, LLC will delete student information upon student, parent, guard
 ### Who can I contact at Turnitin if I have privacy concerns?
 
 We are always ready to answer any question or concerns you may have. Please write to us at [privacy@scholarly.space](mailto:privacy@scholarly.space?Subject=Privacy%20concerns).
+
+---
 
 ## Additional information about Data collection and processing
 
@@ -198,43 +205,43 @@ The Data Controller is responsible for this privacy policy.
 
 ### Definitions and legal references
 
-#### Personal Data (or Data)
+#### *Personal Data (or Data)*
 
 Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
 
-#### Usage Data
+#### *Usage Data*
 
 Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
-#### User
+#### *User*
 
 The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
 
-#### Data Subject
+#### *Data Subject*
 
 The legal or natural person to whom the Personal Data refers.
 
-#### Data Processor (or Data Supervisor)
+#### *Data Processor (or Data Supervisor)*
 
 The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
 
-#### Data Controller (or Owner)
+#### *Data Controller (or Owner)*
 
 The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
 
-#### This Application
+#### *This Application*
 
 The hardware or software tool by which the Personal Data of the User is collected.
 
-#### Cookies
+#### *Cookies*
 
 Small piece of data stored in the User's device.
 
-#### Student-generated content
+#### *Student-generated content*
 
 Any student materials created by a student including, but not limited to, essays, research papers, portfolios, creative writing, music or other audio files or photographs, except "student-generated content" does not include student responses to a standardized assessment.
 
-* * *
+---
 
 This privacy policy relates solely to this Application.
 
