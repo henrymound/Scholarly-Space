@@ -1,7 +1,7 @@
 
 # **Terms and Conditions | Scholarly Space, LLC**
 
-*Last updated: September 19, 2016*
+*Last updated: September 20, 2016*
 
 The following are the terms of service ("Terms of Service") that define the relationship between Scholarly Space, LLC. ("Company," "Scholarly Space," "we," or "us") and you, and govern your use of Scholarly Space's services.   
 
