@@ -12,7 +12,6 @@
     <li> <strong>Last Name</strong> </li>
     <li> <strong>Image URL (if applicable):</strong> If a user signs in via Google OAuth, we store the URL address of their user image: their public 'profile' image associated with their google account. </li>
 </ul>
-<br>
 <p> <strong>User-Generated Content</strong> is data the user uploads through our website. User-Generated content is tagged with the user's unique 21 digit ID and consists of: </p>
 <ul>
     <li> <strong>Posts:</strong> A post refers to a document a user submits and uploads through our proprietary posting and commenting system. Each post is stored as an individual document in the MarkDown format (.md). </li>
