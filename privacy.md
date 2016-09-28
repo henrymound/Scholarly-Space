@@ -94,8 +94,9 @@ Personal Data collected: Usage Data and User ID.
 
 ### Displaying content from external platforms
 
-This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.
-This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
+This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them. This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it. 
+
+These platforms require affirmative opt-in consent from the user. Scholarly Space will never share Education Records with third parties except (i) as directed by a Scholarly Space user (i.e., teacher sharing with another teacher or parent); or (ii) to our service providers that are necessary for us to provide the Service.
 
 #### *YouTube video widget (Google Inc.)*
 
@@ -197,7 +198,7 @@ To determine whether any of the third party services it uses honor the "Do Not T
 
 ### Changes to this privacy policy
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
+Scholarly Space reserves the right, at our discretion, to change, modify, add, or remove portions of the Privacy Policy at any time. Please check the Privacy Policy periodically for changes. Your continued use of the Website after the posting of changes constitutes your binding acceptance of such changes. For any material changes to the Privacy Policy, Scholarly Space will make reasonable effort to provide notice to you of such changes, such as by an email notification to the address associated with your account and/or by posting a notice on the Website requiring a user to affirm their agreement of the updated Privacy Policy. Such amended terms will be effective against You on the earlier of (i) your actual notice of such changes and (ii) thirty days after Scholarly Space makes reasonable attempt to provide you such notice. Disputes arising under the Privacy Policy will be resolved in accordance with the version of the Privacy Policy in place at the time the dispute arose.
 
 ### Information about this privacy policy
 
@@ -245,4 +246,4 @@ Any student materials created by a student including, but not limited to, essays
 
 This privacy policy relates solely to this Application.
 
-Latest update: September 19, 2016
+Latest update: September 27, 2016
