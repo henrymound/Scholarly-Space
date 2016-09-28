@@ -1,4 +1,5 @@
-<center><img src="http://www.scholarly.space/lib/logos/final_bubble.png" width="300px"></center><br>
+<p align="center"><img src="http://www.scholarly.space/lib/logos/final_bubble.png" width="300px"></p>
+<br>
 Scholarly Space is an online hub for students of any age to organize, keep track of, and interpret their life as a learner. Scholarly Space addresses learning as a whole, promoting academic development, career development, as well as social, emotional, and physical development.
 
 ---
