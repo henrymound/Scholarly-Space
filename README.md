@@ -5,7 +5,7 @@ Scholarly Space is an online hub for students of any age to organize, keep track
 ---
 <h1><strong>Features</strong></h1>
 
-<h3>A Self-Incentivizing Portfolio</h3> 
+<h3>A Self-Incentivizing and Dynamic Portfolio</h3> 
 Scholarly Space doesn't only allow users to keep track of and organize their school-based academic pursuits. Our proprietary user-friendly portfolio interface allows users to freely add their own personal works, work experiences, independent studies, and miscellaneous projects. Scholarly Space is the only online portfolio users will ever need, granting them complete control over what to include or omit in their online portfolio.  Scholarly Space is tailored to individuals; it is the online home for artists, writers, scientists, engineers, inventors, and entrepreneurs alike. <br>
 
 <p align="center">![enter image description here](https://raw.githubusercontent.com/henrymound/Scholarly-Space/master/Screenshots/MainScreen.png)</center>
