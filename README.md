@@ -10,7 +10,12 @@ Scholarly Space doesn't only allow users to keep track of and organize their sch
 
 <p align="center">![enter image description here](https://raw.githubusercontent.com/henrymound/Scholarly-Space/master/Screenshots/MainScreen.png)</center>
 
-Our online portfolio is designed to be dynamic, just like our users. Unlike traditional online portfolios, Scholarly Space is not just an editable resume template. An individual's work cannot be constrained to a piece of paper. At Scholarly Space, users can shape and traverse their boundless visual web of works. Our software facilitates the unique. Users can upload artwork, photographs, essays, news articles, music, blogs, programming projects, volunteer work, and scientific research – the options are endless. 
+Our online portfolio is designed to be dynamic, just like our users. Unlike traditional online portfolios, Scholarly Space is not just an editable resume template. An individual's work cannot be constrained to a piece of paper. At Scholarly Space, users can intuitively shape and traverse their boundless visual web of works. Our software facilitates the unique. Users can upload artwork, photographs, essays, news articles, music, blogs, programming projects, volunteer work, and scientific research – the options are endless. Unlike other online content managers, users retain complete ownership of all their intellectual property works stored on Scholarly Space servers.
+
+<h3>Portfolio Generation and Export</h3>
+Even though a comprehensive dynamic portfolio cannot truly be represented on paper, sometimes resumés and/or paper portfolios are necessary. With Scholarly Space, users can easily generate and export a tailored PDF or Word Document of their work. Users have nuanced control over what parts of their online portfolio they would like to include or omit in the export – granting them the ability to add or remove media, descriptions, timelines, excerpts, tags, and projects to the generated document. 
+
+Once users build their cumulative Scholarly Space portfolio, they are able to print customized portfolios and resumés for their various specific needs. With a few clicks, users can submit these documents to local part-time jobs, full-time jobs, volunteer opportunities, and internship positions made available through the Scholarly Space site.
 
 <h3>Data Analysis</h3> 
 Scholarly Space fosters curiosity and encourages exploration. It is easy not to know the overarching element that connects an individual's interests. But, with Scholarly Space's data analysis features, users can examine their portfolio's statistical trends. Users can use these features to discover potential career paths, internship opportunities, community programs, and educational institutions that match their internally-driven interests. 
@@ -22,9 +27,6 @@ Scholarly Space acts as the home of a student's digital life. Our site supports 
 <h3>Integration with Schools</h3> 
 Scholarly Space works by partnering with Schools and Educational Organizations. 
 
-<h3>Intuitive and Self-Incentivizing User Interface</h3> 
-
-<h3>Portfolio Generation</h3> 
 
 
 <h3>Collaboration and Sharing</h3> 
