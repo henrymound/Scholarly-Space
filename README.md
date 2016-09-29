@@ -17,7 +17,7 @@ Even though a comprehensive dynamic portfolio cannot truly be represented on pap
 
 Once users build their cumulative Scholarly Space portfolio, they are able to print customized portfolios and resumés for their various specific needs. With a few clicks, users can submit these documents to local part-time jobs, full-time jobs, volunteer opportunities, and internship positions made available through the Scholarly Space site.
 
-<h3>Data Analysis</h3> 
+<h3>Portfolio Analysis</h3> 
 Scholarly Space fosters curiosity and encourages exploration. It is easy not to know the overarching element that connects an individual's interests. But, with Scholarly Space's data analysis features, users can examine their portfolio's statistical trends. Users can use these features to discover potential career paths, internship opportunities, community programs, and educational institutions that match their internally-driven interests. 
 
 <h3>A Central Hub</h3>
@@ -32,8 +32,5 @@ Scholarly Space works by partnering with Schools and Educational Organizations.
 <h3>Collaboration and Sharing</h3> 
 
 ---
-
-<h1><strong>How Scholarly Space Works</strong></1>
-<h3>Modules</h3>
 
 <h11>Copyright © 2016 Scholarly Space, LLC. All rights reserved.</h11>
