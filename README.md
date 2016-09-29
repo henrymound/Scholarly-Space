@@ -25,11 +25,12 @@ Scholarly Space acts as the home of a student's digital life. Our site supports 
 
 
 <h3>Integration with Schools</h3> 
-Scholarly Space works by partnering with Schools and Educational Organizations. 
-
-
+Scholarly Space works by partnering with Schools and Educational Organizations. Students and administrators of partnered schools and organizations are granted access to Scholarly Space's services. By forming partnerships, Scholarly Space can provide resources to student users that would be unavailable to the general public. For example, student's of partnered schools have the ability to explore and join various collaborative clubs and organizations, as well as enroll in discussion-based pages for class offered at their school. Students can get involved with opportunities that they were previously unaware existed. 
 
 <h3>Collaboration and Sharing</h3> 
+By default, a user's portfolio is private and can only be modified and viewed by its owner. However, users can add collaborative clubs and classes to their portfolio. These community-based classes and clubs are stored on Scholarly Space's servers and use our proprietary software. Students can submit posts and comments to these pages, which are shared with other members of the group. Comments and posts are only accessible by other members and are never shared with third parties.
+ 
+Users of Scholarly Space also have the ability to share specific private works of their online portfolio with other Scholarly Space users using an email address. Users have the option to share these projects with various privileges – choosing to allow others to view only, view and comment only, or view and modify the work in question. Scholarly Space's sharing feature allows students to share work with their teachers, peers, and advisors. Scholarly Space facilitates a level of collaboration between students and teachers that has previously not been possible. And, by having work be private by default, student and teacher users alike can comfortably create a large online portfolio with the knowledge that their work is private and securely stored.
 
 ---
 
