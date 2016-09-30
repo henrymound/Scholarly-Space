@@ -1,9 +1,9 @@
 <p align="center"><img src="http://www.scholarly.space/lib/logos/final_bubble.png" width="300px"></p>
 <br>
-Scholarly Space is an online hub for students of any age to organize, keep track of, and interpret their life as a learner. Scholarly Space addresses learning as a whole, promoting academic development, career development, as well as social, emotional, and physical development.
+Scholarly Space is an online hub for students of any age to organize, keep track of, and interpret their life as a learner. Our secure web application allows users to create and manage an online interactive portfolio. The Scholarly Space site is designed to be dynamic and flexible, allowing users to develop a comprehensive and all-encompassing online portfolio. Scholarly Space addresses learning as a whole, promoting academic development, career development, and social, emotional, and physical development. 
 
 ---
-<h1><strong>Features</strong></h1>
+<h1><strong>What Makes Scholarly Space Great</strong></h1>
 
 <h3>A Self-Incentivizing and Dynamic Portfolio</h3> 
 Scholarly Space doesn't only allow users to keep track of and organize their school-based academic pursuits. Our proprietary user-friendly portfolio interface allows users to freely add their own personal works, work experiences, independent studies, and miscellaneous projects. Scholarly Space is the only online portfolio users will ever need, granting them complete control over what to include or omit in their online portfolio.  Scholarly Space is tailored to individuals; it is the online home for artists, writers, scientists, engineers, inventors, and entrepreneurs alike. <br>
@@ -31,6 +31,11 @@ Scholarly Space works by partnering with Schools and Educational Organizations. 
 By default, a user's portfolio is private and can only be modified and viewed by its owner. However, users can add collaborative clubs and classes to their portfolio. These community-based classes and clubs are stored on Scholarly Space's servers and use our proprietary software. Students can submit posts and comments to these pages, which are shared with other members of the group. Comments and posts are only accessible by other members and are never shared with third parties.
  
 Users of Scholarly Space also have the ability to share specific private works of their online portfolio with other Scholarly Space users using an email address. Users have the option to share these projects with various privileges – choosing to allow others to view only, view and comment only, or view and modify the work in question. Scholarly Space's sharing feature allows students to share work with their teachers, peers, and advisors. Scholarly Space facilitates a level of collaboration between students and teachers that has previously not been possible. And, by having work be private by default, student and teacher users alike can comfortably create a large online portfolio with the knowledge that their work is private and securely stored.
+
+---
+<h1><strong>About Us</strong></h1>
+
+Scholarly Space, LLC is a Connecticut-based company. 
 
 ---
 
