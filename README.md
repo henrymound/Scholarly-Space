@@ -38,5 +38,11 @@ Users of Scholarly Space also have the ability to share specific private works o
 Scholarly Space, LLC is a Connecticut-based company. 
 
 ---
+<h1><strong>Contact Us</strong></h1>
+If you would like to get in touch, please feel free to send an email to:
 
+Henry Mound
+[henry@scholarly.space](mailto:henry@scholarly.space)
+
+---
 <h11>Copyright © 2016 Scholarly Space, LLC. All rights reserved.</h11>
