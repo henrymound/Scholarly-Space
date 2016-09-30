@@ -2,7 +2,7 @@
 <br>
 Scholarly Space is an online hub for students of any age to organize, keep track of, and interpret their life as a learner. Our secure web application allows users to create and manage an online interactive portfolio. The Scholarly Space site is designed to be dynamic and flexible, allowing users to develop a comprehensive and all-encompassing online portfolio. Scholarly Space addresses learning as a whole, promoting academic development, career development, and social, emotional, and physical development. 
 
----
+<hr>
 <h1><strong>What Makes Scholarly Space Great</strong></h1>
 
 <h3>A Self-Incentivizing and Dynamic Portfolio</h3> 
@@ -32,19 +32,21 @@ By default, a user's portfolio is private and can only be modified and viewed by
  
 Users of Scholarly Space also have the ability to share specific private works of their online portfolio with other Scholarly Space users using an email address. Users have the option to share these projects with various privileges – choosing to allow others to view only, view and comment only, or view and modify the work in question. Scholarly Space's sharing feature allows students to share work with their teachers, peers, and advisors. Scholarly Space facilitates a level of collaboration between students and teachers that has previously not been possible. And, by having work be private by default, student and teacher users alike can comfortably create a large online portfolio with the knowledge that their work is private and securely stored.
 
----
+<hr>
 <h1><strong>About Us</strong></h1>
 
 Scholarly Space, LLC is a Connecticut-based company. We started developing the Scholarly Space site a little over a year ago with the mission of creating a brand new way for students to interpret, organize, and manage their journey through school. Some of the ways we aim to accomplish this are by: introducing students to activities, resources, and opportunities in both their communities and schools; promoting and facilitating enhanced communication between students and their peers, members of their community, and their teachers; and providing a constantly-changing online portfolio users can interact with during their years as a student.
 
 Students of select schools can start using the Scholarly Space site in sixth grade. Our goals align with those of the Connecticut State Department of Education's [Student Success Plan](http://www.sde.ct.gov/sde/cwp/view.asp?a=2702&Q=334064) – a "student-centered plan that engages every student based on their unique interests and strengths helping them to understand the relevancy of education to achieve postsecondary educational and career goals." [More information about the Student Success Plan can be found at sde.ct.gov.](http://www.sde.ct.gov/sde/cwp/view.asp?a=2702&Q=334064)
 
----
+<hr>
+
 <h1><strong>Contact Us</strong></h1>
 If you would like to get in touch, please feel free to send an email to:
 
 Henry Mound
 [henry@scholarly.space](mailto:henry@scholarly.space)
 
----
-Copyright  2016 Scholarly Space, LLC. All rights reserved.
+<hr>
+
+Copyright © 2016 Scholarly Space, LLC. All rights reserved.
