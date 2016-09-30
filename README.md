@@ -47,4 +47,4 @@ Henry Mound
 [henry@scholarly.space](mailto:henry@scholarly.space)
 
 ---
-Copyright © 2016 Scholarly Space, LLC. All rights reserved.
+Copyright  2016 Scholarly Space, LLC. All rights reserved.
