@@ -10,7 +10,7 @@
     <li> <strong>Email:</strong> We store the email address that a user signs-in with. This is either the email address associated with their Google Account, which we access via Google OAuth, or it is the email address the user signed-up with through Scholarly.Space. </li>
     <li> <strong>First Name</strong> </li>
     <li> <strong>Last Name</strong> </li>
-    <li> <strong>Image URL (if applicable):</strong> If a user signs in via Google OAuth, we store the URL address of their user image: their public 'profile' image associated with their google account. </li>
+    <li> <strong>Image URL (if applicable):*</strong> If a user signs in via Google OAuth, we store the URL address of their user image: their public 'profile' image associated with their google account. </li>
 </ul>
 <p> <strong>User-Generated Content</strong> is data the user uploads through our website. User-Generated content is tagged with the user's unique 21 digit ID and consists of: </p>
 <ul>
