@@ -164,7 +164,7 @@ Scholarly Space, LLC does not use personally identifiable information from stude
 Scholarly Space, LLC will delete student information upon student, parent, guardian, or board of education request. A student, parent, guardian, or board of education member can make such a request by contacting us at [privacy@scholarly.space](mailto:privacy@scholarly.space).
 [Click here to learn more about P.A. 16-189](https://www.cga.ct.gov/2016/SUM/2016SUM00189-R02HB-05469-SUM.htm)
 
-### Who can I contact at Turnitin if I have privacy concerns?
+### Who can I contact at Scholarly Space if I have privacy concerns?
 
 We are always ready to answer any question or concerns you may have. Please write to us at [privacy@scholarly.space](mailto:privacy@scholarly.space?Subject=Privacy%20concerns).
 
